@@ -1,4 +1,4 @@
-# Fast Food Memes 
+# Fast Food Memes 1
 
 ➡️ https://t.me/ffmemesbot ⬅️
 
