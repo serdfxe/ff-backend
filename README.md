@@ -9,7 +9,7 @@
 2. `docker network create ffmemes_network`
 3. `docker-compose up -d --build`
 
-Don't forget to fill the local `.env` file with all envs you need.
+Don't forget sdf sdf o fill the local `.env` file with all envs you need.
 
 ### Test local changes
 
