@@ -15,7 +15,7 @@ Don't forget sdf sdf o fill the local `.env` file with all envs you need.
 
 Before sending a PR you must test your new code. The easiest way is to run `ipython` shell, then import the functions you may need and test them. Note that ipython can run async functions without wrapping them with `asyncio.run(...)`.
  ыва ываыва
-``` shell
+``` shellф ыкфыв
 docker compose exec app ipython
 ```
 
